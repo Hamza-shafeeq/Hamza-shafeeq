@@ -1,6 +1,8 @@
 ### Hi there 👋
-**I'm a passionate and Enthusiast Blockchain Developer**
+**I'm a passionate and Enthusiast Blockchain Developer!**
 
+- 🔭 I’m currently working on Hyperledger, EVM Compatible Blockchains.
+- 🌱 I’m currently planning to learn Go and Rust.
  
 [![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-shafeeq)](https://github.com/Hamza-shafeeq/github-readme-stats)
 
@@ -12,8 +14,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Hyperledger, EVM Compatible Blockchains.
-- 🌱 I’m currently planning to learn Go and Rust
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
