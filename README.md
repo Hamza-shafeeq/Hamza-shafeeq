@@ -3,7 +3,7 @@
 
  
 [![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-shafeeq)](https://github.com/Hamza-shafeeq/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-shafeeq&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hamza-shafeeq)](https://github.com/Hamza-shafeeq/github-readme-stats)
 
 
  
