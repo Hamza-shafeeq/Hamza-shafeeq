@@ -3,7 +3,7 @@
 
  
 [![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-shafeeq)](https://github.com/Hamza-shafeeq/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-shafeeq)](https://github.com/Hamza-shafeeq/github-readme-stats)
 
  
 <!--
