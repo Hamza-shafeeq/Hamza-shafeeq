@@ -1,5 +1,8 @@
 ### Hi there 👋
  **A passionate Blockchain Enthusiast**
+[![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-shafeeq)](https://github.com/Hamza-shafeeq/github-readme-stats)
+
+ 
 <!--
 
 **Hamza-shafeeq/Hamza-shafeeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
