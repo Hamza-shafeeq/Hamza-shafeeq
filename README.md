@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-shafeeq" alt="hamza-shafeeq" /></a> </p>
 
-- 🔭 I’m currently working on **Hyperledger**
-
-- 🌱 I’m currently learning **Go, and Rust**
+- 🔭 I’m currently working as a  **Product Manager** and currently building a EVM compatible Blockchain using **Substrate**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/Hamza-shafeeq](https://www.github.com/Hamza-shafeeq)
 
