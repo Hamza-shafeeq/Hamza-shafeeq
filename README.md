@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Blockchain, EVM compatible Blockchains, Hyperledger, React, NodeJs**
 
-- 📫 You can reach me at **hamzashafiq262@gmail.com**
+- 📫 You can reach out to me at **hamzashafiq262@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
